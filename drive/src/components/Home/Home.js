@@ -321,7 +321,7 @@ const Home = ({ }) => {
                     onTouchEnd={handleTouchEnd}
                 >
                     <h5>
-                    {chatId === '197337640' || chatId === '6578624309' ? <h5>26.5.19</h5> : ''}
+                    {chatId === '197337640' || chatId === '6578624309' ? <h5>test 26.5.19</h5> : ''}
                         </h5>
                     <div class="neon-text">Welcome to Drive</div>
                     <div className="NameAndStat">
